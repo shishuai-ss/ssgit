@@ -3,3 +3,4 @@
 sshs
 java
 python
+rust
